@@ -11,6 +11,12 @@
     border-bottom-color: black;
 }
 
+#topbar h1{
+    text-align: center;
+    font-size: 36px;
+    font-color: black;
+}
+
 .topimg{
     float: left;
 }
@@ -95,4 +101,9 @@
     margin-left: 12%;
     width: 75%;
     border-radius: 100%;
+}
+
+#specialHoliday{
+    font-size: 42px;
+    color: white;
 }

@@ -18,12 +18,14 @@ function changecolors() {
 
 function change() {
 
-    var hex = ["red", "blue", "green", "orange", "yellow"];
+    var hex = ["red", "blue", "white"];
 
-    var color = hex[Math.floor(Math.random() * 4)];
+    var color = hex[Math.floor(Math.random() * 3)];
 
     document.body.style.background = color;
+    document.getElementById('social').style.backgroundColor = color;
 }
 
 $(document).ready(function() {
+    changecolors();
 });
