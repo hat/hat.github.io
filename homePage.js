@@ -27,5 +27,4 @@ function change() {
 }
 
 $(document).ready(function() {
-    changecolors();
 });
