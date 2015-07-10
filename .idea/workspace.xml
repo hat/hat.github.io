@@ -2,404 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d154d42c-2b8c-41c0-8efb-5413503ae6cc" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/.jrubyrc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/.travis.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/CONTRIBUTING.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/Gemfile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/History.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/LICENSE" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/README.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/Rakefile" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/benchmark/end-with-vs-regexp" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/benchmark/flat-map" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/benchmark/hash-fetch" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/benchmark/jekyll-sanitize-path" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/benchmark/proc-call-vs-yield" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/benchmark/sequential-assignment" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/benchmark/string-concat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/benchmark/string-replacement" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/benchmark/symbol-to-proc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/bin/jekyll" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/collections.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/create_sites.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/data.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/drafts.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/embed_filters.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/frontmatter_defaults.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/hooks.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/include_tag.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/incremental_rebuild.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/markdown.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/pagination.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/permalinks.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/plugins.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/post_data.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/post_excerpts.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/rendering.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/site_configuration.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/site_data.feature" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/step_definitions/jekyll_steps.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/support/env.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/features/support/overview.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/jekyll.gemspec" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/cleaner.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/collection.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/command.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/commands/build.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/commands/clean.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/commands/doctor.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/commands/help.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/commands/new.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/commands/serve.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/configuration.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/converter.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/converters/identity.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/converters/markdown.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/converters/markdown/kramdown_parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/converters/markdown/rdiscount_parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/converters/markdown/redcarpet_parser.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/convertible.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/deprecator.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/document.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/draft.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/entry_filter.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/errors.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/excerpt.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/external.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/filters.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/frontmatter_defaults.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/generator.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/hooks.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/layout.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/liquid_extensions.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/liquid_renderer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/liquid_renderer/file.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/liquid_renderer/table.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/log_adapter.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/mime.types" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/page.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/plugin.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/plugin_manager.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/post.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/publisher.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/reader.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/readers/collection_reader.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/readers/data_reader.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/readers/draft_reader.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/readers/layout_reader.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/readers/page_reader.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/readers/post_reader.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/readers/static_file_reader.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/regenerator.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/related_posts.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/renderer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/site.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/static_file.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/stevenson.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/tags/highlight.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/tags/include.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/tags/post_url.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/url.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/utils.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/utils/platforms.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/jekyll/version.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/_includes/head.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/_layouts/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/_layouts/post.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/_posts/0000-00-00-welcome-to-jekyll.markdown.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/_sass/_base.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/_sass/_layout.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/_sass/_syntax-highlighting.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/about.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/css/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/lib/site_template/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/script/bootstrap" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/script/branding" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/script/cibuild" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/script/console" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/script/cucumber" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/script/proof" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/script/rebund" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/script/rubyprof" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/script/stackprof" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/script/test" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/CNAME" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/README.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_config.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_data/docs.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/assets.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/collections.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/configuration.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/continuous-integration.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/contributing.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/datafiles.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/deployment-methods.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/drafts.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/extras.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/frontmatter.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/github-pages.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/history.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/installation.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/migrations.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/pages.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/pagination.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/permalinks.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/plugins.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/posts.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/quickstart.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/resources.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/sites.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/static_files.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/structure.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/templates.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/troubleshooting.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/upgrading.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/usage.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/variables.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_docs/windows.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/analytics.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/anchor_links.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/docs_contents.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/docs_contents_mobile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/docs_option.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/docs_ul.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/footer.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/header.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/news_contents.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/news_contents_mobile.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/news_item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/primary-nav-items.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/section_nav.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_includes/top.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_layouts/docs.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_layouts/news.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_layouts/news_item.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_layouts/page.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-05-06-jekyll-1-0-0-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-05-08-jekyll-1-0-1-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-05-12-jekyll-1-0-2-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-06-07-jekyll-1-0-3-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-07-14-jekyll-1-1-0-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-07-24-jekyll-1-1-1-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-07-25-jekyll-1-0-4-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-07-25-jekyll-1-1-2-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-09-06-jekyll-1-2-0-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-09-14-jekyll-1-2-1-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-10-28-jekyll-1-3-0-rc1-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-11-04-jekyll-1-3-0-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-11-26-jekyll-1-3-1-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-12-07-jekyll-1-4-0-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-12-09-jekyll-1-4-1-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2013-12-16-jekyll-1-4-2-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-01-13-jekyll-1-4-3-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-03-24-jekyll-1-5-0-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-03-27-jekyll-1-5-1-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-05-06-jekyll-turns-2-0-0.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-05-08-jekyll-2-0-3-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-06-04-jekyll-stickers-1-dollar-stickermule.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-06-28-jekyll-turns-21-i-mean-2-1-0.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-07-01-jekyll-2-1-1-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-07-29-jekyll-2-2-0-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-08-10-jekyll-2-3-0-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-09-09-jekyll-2-4-0-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-11-06-jekylls-midlife-crisis-jekyll-turns-2-5-0.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-11-08-jekyll-2-5-1-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-11-12-jekyll-2-5-2-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-12-17-alfredxing-welcome-to-jekyll-core.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2014-12-22-jekyll-2-5-3-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2015-01-20-jekyll-meet-and-greet.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2015-01-24-jekyll-3-0-0-beta1-released.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_posts/2015-02-26-introducing-jekyll-talk.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_sass/_font-awesome.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_sass/_gridism.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_sass/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_sass/_normalize.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_sass/_pygments.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/_sass/_style.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/css/screen.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/favicon.ico" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/feed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/freenode.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/help/index.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/img/article-footer.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/img/footer-arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/img/footer-logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/img/jekyll-sticker.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/img/logo-2x.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/img/logo-rss.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/img/octojekyll.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/js/html5shiv.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/js/respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/latest_version.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/news/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/site/news/releases/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/fixtures/broken_front_matter1.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/fixtures/broken_front_matter2.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/fixtures/broken_front_matter3.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/fixtures/exploit_front_matter.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/fixtures/front_matter.erb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/helper.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/simplecov_custom_profile.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/+/%# +.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/+/foo.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/.htaccess" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_config.dev.toml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_data/categories/dairy.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_data/languages.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_data/members.json" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_data/members.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_data/products.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_drafts/draft-properties.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_includes/include.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_includes/params.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_includes/sig.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_layouts/default.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_layouts/post/simple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_layouts/simple.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_methods/_do_not_read_me.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_methods/configuration.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_methods/escape-+ #%20[].md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_methods/sanitized_path.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_methods/site/_dont_include_me_either.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_methods/site/generate.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_methods/site/initialize.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_methods/um_hi.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_methods/yaml_with_dots.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_plugins/dummy.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2008-02-02-not-published.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2008-02-02-published.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2008-10-18-foo-bar.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2008-11-21-complex.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2008-12-03-permalinked-post.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2008-12-13-include.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-01-27-array-categories.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-01-27-categories.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-01-27-category.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-01-27-empty-categories.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-01-27-empty-category.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-01-27-no-category.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-03-12-hash-#1.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-05-18-empty-tag.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-05-18-empty-tags.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-05-18-tag.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-05-18-tags.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-06-22-empty-yaml.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2009-06-22-no-yaml.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2010-01-08-triple-dash.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2010-01-09-date-override.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2010-01-09-time-override.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2010-01-09-timezone-override.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2010-01-16-override-data.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2011-04-12-md-extension.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2011-04-12-text-extension.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2013-01-02-post-excerpt.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2013-01-12-nil-layout.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2013-01-12-no-layout.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2013-03-19-not-a-post.markdown/.gitkeep" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2013-04-11-custom-excerpt.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2013-05-10-number-category.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2013-07-22-post-excerpt-with-layout.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2013-08-01-mkdn-extension.mkdn" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2013-12-17-include-variable-filters.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2013-12-20-properties.text" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2014-01-06-permalink-traversal.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2014-03-03-yaml-with-dots.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2014-03-22-escape-+ %20[].markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2014-07-05-another-mixed-case-category.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2014-07-05-mixed-case-category.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2014-09-02-relative-includes.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2014-11-24-Rmd-extension.Rmd" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2015-01-08-post-excerpt-separator.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/2015-02-20-extensionless-permalink.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/es/2008-11-21-nested.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/include_relative/params.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_posts/include_relative/rel_include.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_sass/_grid.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_slides/example-slide-1.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_slides/example-slide-2.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_slides/example-slide-3.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_slides/example-slide-4.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_slides/example-slide-5.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_slides/example-slide-6.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_slides/non-outputted-slide.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_slides/octojekyll.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_with.dots/all.dots/2.4.0.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/_with.dots/file.with.dots.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/about.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/category/_posts/2008-9-23-categories.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/contacts.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/contacts/bar.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/contacts/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/css/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/css/screen.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/deal.with.dots.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/environment.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/exploit.md" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/foo/_posts/bar/2008-12-12-topical-post.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/js/coffeescript.coffee" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/pgp.key" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/products.yml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/properties.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/sitemap.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/static_files.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/symlink-test/_data" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/symlink-test/symlinked-dir" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/symlink-test/symlinked-file" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/unpublished.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/win/_posts/2009-05-24-yaml-linebreak.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/source/z_category/_posts/2008-9-23-categories.markdown" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_cleaner.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_coffeescript.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_collections.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_command.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_configuration.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_convertible.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_document.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_draft.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_entry_filter.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_excerpt.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_filters.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_front_matter_defaults.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_generated_site.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_kramdown.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_layout_reader.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_liquid_extensions.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_liquid_renderer.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_log_adapter.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_new_command.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_page.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_path_sanitization.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_plugin_manager.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_post.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_rdiscount.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_redcarpet.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_regenerator.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_related_posts.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_sass.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_site.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_static_file.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_tags.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_url.rb" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/jekyll-master/test/test_utils.rb" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bio_photo.png" afterPath="" />
     </list>
     <ignored path="hatbkwds.github.io.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -423,8 +26,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.48238897">
-              <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+            <state vertical-scroll-proportion="0.65543646">
+              <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -524,7 +127,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WebstormProjects/startbootstrap-freelancer-1.0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="FullScreen" value="false" />
@@ -586,7 +189,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="22" width="1280" height="774" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -676,7 +279,7 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bio_photo.png">
+    <entry file="file://$USER_HOME$/WebstormProjects/startbootstrap-freelancer-1.0.3/img/bio_photo.png">
       <provider selected="true" editor-type-id="images">
         <state />
       </provider>
@@ -684,14 +287,6 @@
     <entry file="file://$PROJECT_DIR$/Website_Image.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/homePage.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
-          <folding />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/homePage.js">
@@ -702,10 +297,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/homePage.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="107" column="17" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.48238897">
-          <caret line="21" column="19" selection-start-line="21" selection-start-column="19" selection-end-line="21" selection-end-column="19" />
+        <state vertical-scroll-proportion="0.65543646">
+          <caret line="46" column="29" selection-start-line="46" selection-start-column="29" selection-end-line="46" selection-end-column="48" />
           <folding />
         </state>
       </provider>
