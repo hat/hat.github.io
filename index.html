@@ -195,8 +195,33 @@
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2">
-                    <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19. -->
-                    <!-- The form should work on most web servers, but if the form is not working you may need to configure your web server differently. -->
+                    <form id="contactform" method="POST">
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <input type="text" class="form-control" placeholder="Name" id="name">
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                    <input type="email" class="form-control" placeholder="Email Address" id="email" name="_replyto">
+                            </div>
+                        </div>
+                        <div class="row control-group">
+                            <div class="form-group col-xs-12 floating-label-form-group controls">
+                                <textarea rows="4" class="form-control" placeholder="Message" id="message" name="message"></textarea>
+                                <p class="help-block text-danger"></p>
+                            </div>
+                        </div>
+
+                        <input type="text" name="_gotcha" style="display:none" />
+                        <input type="submit" class="btn btn-success btn-lg" value="Send">
+                    </form>
+                    <script>
+                        var contactform =  document.getElementById('contactform');
+                        contactform.setAttribute('action', '//formspree.io/' + 'taztony2010' + '@' + 'yahoo' + '.' + 'com');
+                    </script>
+                    <!-- To configure the contact form email address, go to mail/contact_me.php and update the email address in the PHP file on line 19.
+                         The form should work on most web servers, but if the form is not working you may need to configure your web server differently.
                     <form name="sentMessage" id="contactForm" novalidate>
                         <div class="row control-group">
                             <div class="form-group col-xs-12 floating-label-form-group controls">
@@ -234,6 +259,7 @@
                             </div>
                         </div>
                     </form>
+                    -->
                 </div>
             </div>
         </div>
@@ -297,7 +323,7 @@
         </a>
     </div>
 
-    <!-- Portfolio Modals -->
+    <!-- Portfolio Modals
     <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
         <div class="modal-content">
             <div class="close-modal" data-dismiss="modal">
@@ -520,6 +546,7 @@
             </div>
         </div>
     </div>
+    -->
 
     <!-- jQuery -->
     <script src="js/jquery.js"></script>
@@ -532,9 +559,10 @@
     <script src="js/classie.js"></script>
     <script src="js/cbpAnimatedHeader.js"></script>
 
-    <!-- Contact Form JavaScript -->
+    <!-- Contact Form JavaScript
     <script src="js/jqBootstrapValidation.js"></script>
     <script src="js/contact_me.js"></script>
+    -->
 
     <!-- Custom Theme JavaScript -->
     <script src="js/freelancer.js"></script>
