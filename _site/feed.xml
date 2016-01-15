@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Smashing Keys Daily</title>
+    <description></description>
+    <link>http://hatbkwds.github.io//smashing-keys-daily/</link>
+    <atom:link href="http://hatbkwds.github.io//smashing-keys-daily/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Jan 2016 18:12:06 -0800</pubDate>
+    <lastBuildDate>Thu, 14 Jan 2016 18:12:06 -0800</lastBuildDate>
+    <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>Unity and Virtual Reality</title>
+        <description>&lt;p&gt;When it comes to Unity I am a complete beginner having only started working with
+it for the past month and having no prior experience with game programming. I will
+start by saying it is Awesome! I don’t know how people used to make video games
+before game engines like Unity and UnReal and hopefully that isn’t something that
+drives me insane as to where I research into building my own game engine when
+these super powerful easy to use engines already exist and are free to use. So far
+I have started working through the Unity tutorials and I’ve already learned so much.
+I am planning on running through all of the tutorials before making my own game
+so that I will have a great grasp as to how everything works, well and because
+an idea for a game has yet to find it’s way into my mind that is super ambitious.
+&lt;br /&gt;
+Today I went to a Unity meet up where virtual reality was being discussed. Having
+read about it online but yet to actually experience it, not being made of $, being
+able to see what resources for developing on the different units was really eye
+opening. Once I get around to upgrading my desktop the next to do item will be
+saving up for either the Oculus or HTC Vive. Being around professional game openers
+has swayed me slightly into focusing solely on being a game developer knowing that
+the money and job security may not be the best in the field. What is more fun than
+creating something so that others can have fun?&lt;/p&gt;
+</description>
+        <pubDate>Wed, 13 Jan 2016 09:00:00 -0800</pubDate>
+        <link>http://hatbkwds.github.io//smashing-keys-daily/unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality.html</link>
+        <guid isPermaLink="true">http://hatbkwds.github.io//smashing-keys-daily/unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality.html</guid>
+        
+        
+        <category>Unity</category>
+        
+        <category>Virtual</category>
+        
+        <category>Reality</category>
+        
+        <category>VR</category>
+        
+      </item>
+    
+      <item>
+        <title>SVG Files</title>
+        <description>&lt;p&gt;It all started when I wanted to move the RSS Feed from the footer to the header.
+I figured since that sounded like an easy task to do it would take maybe 5-10
+minutes tops. Boy was I wrong! I worked on it for a good hour trying to figure
+out not just what a .svg file was but how to make one and then how to fix them.
+I know all about .gif, .png, .jpg, .ai, but now you want to throw .svg into the
+mix… After some good all internet searching I managed to find that Illustrator
+could convert an image into a svg file. I was mentally ecstatic thinking how easy
+it would be so I open Illustrator, create a logo for the RSS feed, save the file,
+and then create the html file and upload it to the site. I was just about to smile
+and call it a success when I realized the logo was just a gray logo. Well, after
+zooming in I realized my logo was there but just a black outline over a gray circle
+making it invisible. After some time I realized the issue was that in Illustrator
+I did not have a transparent background. Easy fix, or so I thought. If you zoom
+in to the logo now, or at least until I figure out how to change it, you will
+notice that there is some gray outline by each arc. After looking up how to fix
+it and coming across no solution and knowing little about svg files I called it
+a night and left the logo as is. I will come back to try to understand how you
+work one day svg!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jan 2016 07:00:00 -0800</pubDate>
+        <link>http://hatbkwds.github.io//smashing-keys-daily/jekyll/svg/illustrator/gray/2016/01/11/svg-files.html</link>
+        <guid isPermaLink="true">http://hatbkwds.github.io//smashing-keys-daily/jekyll/svg/illustrator/gray/2016/01/11/svg-files.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>svg</category>
+        
+        <category>illustrator</category>
+        
+        <category>gray</category>
+        
+      </item>
+    
+      <item>
+        <title>Jekyll Novice</title>
+        <description>&lt;p&gt;They say the third time is the charm and since this is now the third time I am
+resurrecting my personal blog I am hoping this is also the last time I do so
+from scratch (No, I don’t mean I used MIT’s Scratch language). What a learning
+experience it was to start with Jekyll having only dabbed into web development
+since the majority of my time is spent in the software world. It is quite
+frustrating to write a css file or html file to have it just up and disappear
+once you run the server. If only I had read &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;the manual&lt;/a&gt; before
+trying to just jump straight into the coding (Sigh). Anyway, after doing so and
+figuring out how the markdown language and sass works it was eye opening! The
+overall look of the site will definitely be improved over time but since I am
+ going to go ahead and do all the coding myself without the help of templates
+ that will take some time. Going to go back to Python and Unity for now so stay
+ tuned.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Jan 2016 05:00:00 -0800</pubDate>
+        <link>http://hatbkwds.github.io//smashing-keys-daily/jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice.html</link>
+        <guid isPermaLink="true">http://hatbkwds.github.io//smashing-keys-daily/jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>sass</category>
+        
+        <category>markdown</category>
+        
+        <category>md</category>
+        
+        <category>scss</category>
+        
+      </item>
+    
+  </channel>
+</rss>
