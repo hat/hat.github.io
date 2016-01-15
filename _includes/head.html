@@ -9,7 +9,7 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   {% if page.custom_css %}
   {% for stylesheet in page.custom_css %}
-  <link rel="stylesheet" href="/smashing-keys-daily/css/{{ stylesheet }}.css">
+  <link rel="stylesheet" href="/css/{{ stylesheet }}.css">
   {% endfor %}
   {% endif %}
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
