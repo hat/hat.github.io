@@ -3,10 +3,10 @@
   <channel>
     <title>Smashing Keys Daily</title>
     <description></description>
-    <link>http://hatbkwds.github.io//smashing-keys-daily/</link>
-    <atom:link href="http://hatbkwds.github.io//smashing-keys-daily/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 14 Jan 2016 19:13:18 -0800</pubDate>
-    <lastBuildDate>Thu, 14 Jan 2016 19:13:18 -0800</lastBuildDate>
+    <link>http://hatbkwds.github.io//</link>
+    <atom:link href="http://hatbkwds.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Thu, 14 Jan 2016 19:22:49 -0800</pubDate>
+    <lastBuildDate>Thu, 14 Jan 2016 19:22:49 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -32,8 +32,8 @@ the money and job security may not be the best in the field. What is more fun th
 creating something so that others can have fun?&lt;/p&gt;
 </description>
         <pubDate>Wed, 13 Jan 2016 09:00:00 -0800</pubDate>
-        <link>http://hatbkwds.github.io//smashing-keys-daily/unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality.html</link>
-        <guid isPermaLink="true">http://hatbkwds.github.io//smashing-keys-daily/unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality.html</guid>
+        <link>http://hatbkwds.github.io//unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality.html</link>
+        <guid isPermaLink="true">http://hatbkwds.github.io//unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality.html</guid>
         
         
         <category>Unity</category>
@@ -68,8 +68,8 @@ a night and left the logo as is. I will come back to try to understand how you
 work one day svg!&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Jan 2016 07:00:00 -0800</pubDate>
-        <link>http://hatbkwds.github.io//smashing-keys-daily/jekyll/svg/illustrator/gray/2016/01/11/svg-files.html</link>
-        <guid isPermaLink="true">http://hatbkwds.github.io//smashing-keys-daily/jekyll/svg/illustrator/gray/2016/01/11/svg-files.html</guid>
+        <link>http://hatbkwds.github.io//jekyll/svg/illustrator/gray/2016/01/11/svg-files.html</link>
+        <guid isPermaLink="true">http://hatbkwds.github.io//jekyll/svg/illustrator/gray/2016/01/11/svg-files.html</guid>
         
         
         <category>jekyll</category>
@@ -100,8 +100,8 @@ overall look of the site will definitely be improved over time but since I am
 
 </description>
         <pubDate>Sun, 10 Jan 2016 05:00:00 -0800</pubDate>
-        <link>http://hatbkwds.github.io//smashing-keys-daily/jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice.html</link>
-        <guid isPermaLink="true">http://hatbkwds.github.io//smashing-keys-daily/jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice.html</guid>
+        <link>http://hatbkwds.github.io//jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice.html</link>
+        <guid isPermaLink="true">http://hatbkwds.github.io//jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice.html</guid>
         
         
         <category>jekyll</category>
