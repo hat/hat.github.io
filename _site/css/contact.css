@@ -28,7 +28,7 @@
 .floating-label-form-group input,
 .floating-label-form-group textarea {
   z-index: 1;
-  width: 740px;
+  width: 100%;
   position: relative;
   padding-right: 0;
   padding-left: 0;
