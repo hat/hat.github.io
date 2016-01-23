@@ -26,6 +26,7 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 //start content
 .banner {
+  z-index: -1;
   position: relative;
   background-position: center;
   width: 100%;

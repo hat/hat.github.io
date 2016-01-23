@@ -72,6 +72,7 @@
         }
 
         .trigger {
+
             clear: both;
             display: none;
         }
@@ -99,6 +100,7 @@
  * Site footer
  */
 .site-footer {
+    position: fixed;
     bottom: 0;
     width: 100%;
     left: 0;
@@ -173,6 +175,7 @@
  * Page content
  */
 .page-content {
+    margin-bottom: ($spacing-unit * 10);
     min-height: 53vh;
     padding: $spacing-unit 0;
 }
