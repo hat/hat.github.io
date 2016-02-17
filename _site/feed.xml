@@ -5,9 +5,105 @@
     <description></description>
     <link>http://hatbkwds.github.io//</link>
     <atom:link href="http://hatbkwds.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 23 Jan 2016 10:59:44 -0800</pubDate>
-    <lastBuildDate>Sat, 23 Jan 2016 10:59:44 -0800</lastBuildDate>
+    <pubDate>Tue, 16 Feb 2016 20:42:05 -0800</pubDate>
+    <lastBuildDate>Tue, 16 Feb 2016 20:42:05 -0800</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
+    
+      <item>
+        <title>First Simple Robot - TypeBot</title>
+        <description>&lt;p&gt;There’s is nothing quite as satisfying as using your own hands to build something.
+Whether it be using Legos and building a house, which I did all the time as a young
+one, or using metal or wood to build a mech warrior. I decided to finally put the
+&lt;a href=&quot;http://www.makershed.com/products/make-javascript-robotics&quot;&gt;Make book about
+building javascript robots&lt;/a&gt; to good use and attempted to put together the TypeBot.&lt;/p&gt;
+
+&lt;p&gt;What a blast! The best part while putting it together was cutting the wood for the
+base since the rest was basically just hot gluing things together. My hands may be
+extremely small for a man but there’s a reason I decided to not become a surgeon
+and much like sewing, putting dabs of hot glue on things is not my specialty. I end
+up just using my fingers to smear the glue on and then end up with bright red tipped
+fingers that look like fire embers after pulling off the dried glue.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Bot_Pieces.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The next part was to wire up the Arduino Uno to the three servo motors. This was
+more frustrating than wanting cereal and opening up the fridge to find out you are
+all out of milk. It shouldn’t have been that hard but the servos were purple, red,
+and yellow instead of being red for power, black for ground, and yellow white for
+communication. Thanks &lt;a href=&quot;https://www.adafruit.com/product/155&quot;&gt;AdaFruit&lt;/a&gt;
+for tasting the rainbow and thinking of crazy colors while wiring up your servo motors. Eventually I figured it out using my multimeter and had it all connected and up
+and connected.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Bot_Finished.jpg&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I plugged it in, copied down the code, clicked run, and whala! I had it running
+just fine and aligned the arms of the bot. Little did I know that the hot glue and
+popsicle sticks although making for a cheap robot was not near strong enough to
+click the keys of a keyboard. Not only that, it couldn’t even hold the bot up for
+more than about 5 minutes before it came crashing down and needed to be re-glued.
+After adding hot glue multiple times to each stick eventually I gave in, called
+it a success, and I plan on now either reinforcing what’s already there or creating
+a version 2. There’s a reason everything starts in alpha, goes to beta, and never
+keeps getting updated with better version.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Bot_Working.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Until next robot, I will say this is the most fun I have had in a while!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/GoodByeBot.gif&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Goodbye!&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Feb 2016 17:00:00 -0800</pubDate>
+        <link>http://hatbkwds.github.io//robot/javascript/typebot/simplebot/2016/02/15/first-simple-robot.html</link>
+        <guid isPermaLink="true">http://hatbkwds.github.io//robot/javascript/typebot/simplebot/2016/02/15/first-simple-robot.html</guid>
+        
+        
+        <category>Robot</category>
+        
+        <category>JavaScript</category>
+        
+        <category>TypeBot</category>
+        
+        <category>SimpleBot</category>
+        
+      </item>
+    
+      <item>
+        <title>Comic Drawing with Photoshop</title>
+        <description>&lt;p&gt;I am not the kind of person that likes to post pictures of myself online. I really
+don’t know why that is since I don’t care what people think about me and never care
+what I look like, but I don’t engage much with social media at all.&lt;/p&gt;
+
+&lt;p&gt;With that said, I have decided that I am going to start honing my photoshop skills
+again and start posting different styles of photos that I have manipulated. To start
+out at first the goal was to pixelize my face and make it look like a puzzle that
+needed to be put together. Looking up tutorials on how to do this led me to once
+again come across a tutorial on how to make a photo look like a drawing and this
+one on &lt;a href=&quot;http://www.digitalcameraworld.com/2014/01/22/photo-to-cartoon-effect-how-to-use-photoshop-to-turn-images-into-drawings-or-paintings/&quot;&gt;Digital Camera World by Jeff Meyer &lt;/a&gt;
+intrigued me with it’s multiple steps. It took me a few tries but I was pleasantly
+surprised at how well I managed to have it turn out.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/Suit_Drawing_Merica.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I really had planned on making it look like I was going to run for presidency with
+this photo but while adding color one thing added to another and I realized I had
+a red white and blue theme going on so felt the need to add the stars as well.&lt;/p&gt;
+</description>
+        <pubDate>Sat, 13 Feb 2016 09:30:00 -0800</pubDate>
+        <link>http://hatbkwds.github.io//photoshop/comic/drawing/painting/2016/02/13/comic-drawing-photoshop.html</link>
+        <guid isPermaLink="true">http://hatbkwds.github.io//photoshop/comic/drawing/painting/2016/02/13/comic-drawing-photoshop.html</guid>
+        
+        
+        <category>Photoshop</category>
+        
+        <category>Comic</category>
+        
+        <category>Drawing</category>
+        
+        <category>Painting</category>
+        
+      </item>
     
       <item>
         <title>Who needs pixels?</title>
