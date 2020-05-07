@@ -1,0 +1,22 @@
+
+#post-textwall{
+    padding-left: 10px;
+    padding-bottom: 20px;
+}
+#post-date-inpost{
+    padding: 5px;    
+    border-right: 1px solid $post-border-color;
+    margin: 10px;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    text-align: right;
+}
+.fadeline{
+    height: 1px;
+    width:50%;
+    background: linear-gradient(to left, $post-border-color, transparent);
+    margin-right: 10px;
+    margin-left: auto;
+    margin-bottom: 5px;
+}

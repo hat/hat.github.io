@@ -1,0 +1,14 @@
+<div class="sidebar row">
+    <img class="sidebar-circle" src="{{site.avatar_pic}}"></img>
+    <div>
+        <h4 class="sidebar-header text-center">{{site.name}}</h4>        
+        <p class="text-center">{{site.description}}</p>
+    </div>
+    {% include icon-site.html  icon="github24icon.png"  adress="https://github.com" username=site.github_username %}
+    {% include icon-site.html  icon="twitter24icon.png" adress="https://twitter.com"  username=site.twitter_username %}
+    {% include icon-site.html  icon="linkedin24icon.png"   adress="https://linkedin.com"      username=site.linkedin_username   %}
+
+</div>
+<div class="row">
+    <div class="sidebar-end"></div>
+</div>
