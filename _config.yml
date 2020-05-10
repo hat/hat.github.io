@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: DevOps Engineer/ Automation Engineer/ Education Advocate
+title: Tony's Thoughts
 description: >- # this means to ignore newlines until "baseurl:"
   My personal blog where any given day I will attempt to
   convert the thoughts flowing through my mind into text.
@@ -32,6 +32,9 @@ twitter_username: ttys001
 linkedin_username: tony-hendrick
 github_username:  hat
 
+# JEKYLL SETTINGS
+excerpt_separator: <!--more-->
+
 # Avatar img
 avatar_pic: /assets/avatar_img.png
 
@@ -40,7 +43,7 @@ theme: minima
 plugins:
   - jekyll-feed
 
-color_pallete: https://coolors.co/628395-a5acaf-b4975a-dbbbf5
+color_pallete: https://coolors.co/b24c63-bf8eff-5438dc-8fe388
 
 # Exclude from processing.
 # The following items will not be processed, by default.

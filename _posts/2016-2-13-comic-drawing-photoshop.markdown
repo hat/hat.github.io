@@ -7,7 +7,7 @@ categories: Photoshop Comic Drawing Painting
 I am not the kind of person that likes to post pictures of myself online. I really
 don't know why that is since I don't care what people think about me and never care
 what I look like, but I don't engage much with social media at all.
-
+<!--more-->
 With that said, I have decided that I am going to start honing my photoshop skills
 again and start posting different styles of photos that I have manipulated. To start
 out at first the goal was to pixelize my face and make it look like a puzzle that

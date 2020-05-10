@@ -1,8 +1,8 @@
 @import "bootstrap";
 
 $backest : white;
-$main-color: #5218FA;
-$default-hover-color: #FBFB58;
+$main-color: #8FE388;
+$default-hover-color: #B24C63;
 
 $bigpic-color : $main-color;
 $sidebar-color: $bigpic-color;
@@ -12,18 +12,18 @@ $post-header-color: $backest;
 
 $slip-color : $main-color;
 $post-border-color: lighten($main-color,12%);
-$shadow-color : #BF00FF;
+$shadow-color : #8F8EFF;
 $shadow-circle-color : darken($main-color, 15%);
 
 $main-text-color: black;
 $post-header-text-color: $main-text-color;
-$post-date-text-color: darken($default-hover-color,22%);
+$post-date-text-color: $default-hover-color;
 $post-text-color: lighten($main-text-color,15%);
 
 $link-normal-color: $main-text-color;
 $link-hover-color: $default-hover-color;
 
-$read-more-text-color: $main-color;
+$read-more-text-color: darken($main-color, 20%);
 
 body{
     background: #eaeaea;
@@ -33,10 +33,10 @@ a:hover, .icon-link > a:visited, .icon-link > a:link, .icon-link > a:active{
     text-decoration: none;    
 }
 a:hover{ 
-    color: $post-text-color;
+    color: $post-date-text-color;
 }
 a>*:hover{
-    color:$post-text-color;
+    color:$post-date-text-color;
 }
 
 .big-image{

@@ -1,15 +1,9 @@
----
-layout: post
-title:  "SVG Files"
-date:   2016-01-11 07:00:00 -0800
-categories: jekyll svg illustrator gray
----
-It all started when I wanted to move the RSS Feed from the footer to the header.
+I"~<p>It all started when I wanted to move the RSS Feed from the footer to the header.
 I figured since that sounded like an easy task to do it would take maybe 5-10
 minutes tops. Boy was I wrong!<!--more--> I worked on it for a good hour trying to figure
 out not just what a .svg file was but how to make one and then how to fix them.
 I know all about .gif, .png, .jpg, .ai, but now you want to throw .svg into the
-mix... After some good all internet searching I managed to find that Illustrator
+mix… After some good all internet searching I managed to find that Illustrator
 could convert an image into a svg file. I was mentally ecstatic thinking how easy
 it would be so I open Illustrator, create a logo for the RSS feed, save the file,
 and then create the html file and upload it to the site. I was just about to smile
@@ -21,4 +15,5 @@ in to the logo now, or at least until I figure out how to change it, you will
 notice that there is some gray outline by each arc. After looking up how to fix
 it and coming across no solution and knowing little about svg files I called it
 a night and left the logo as is. I will come back to try to understand how you
-work one day svg!
+work one day svg!</p>
+:ET

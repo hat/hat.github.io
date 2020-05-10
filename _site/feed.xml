@@ -1,17 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-07T16:54:11-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">DevOps Engineer/ Automation Engineer/ Education Advocate</title><subtitle>My personal blog where any given day I will attempt to convert the thoughts flowing through my mind into text. It has been four years since I have blogged so bear with me, enjoy the old material which I also now laugh at, and feel free to critique anything that I write.</subtitle><entry><title type="html">First Simple Robot - TypeBot</title><link href="http://localhost:4000/robot/javascript/typebot/simplebot/2016/02/15/first-simple-robot.html" rel="alternate" type="text/html" title="First Simple Robot - TypeBot" /><published>2016-02-15T17:00:00-08:00</published><updated>2016-02-15T17:00:00-08:00</updated><id>http://localhost:4000/robot/javascript/typebot/simplebot/2016/02/15/first-simple-robot</id><content type="html" xml:base="http://localhost:4000/robot/javascript/typebot/simplebot/2016/02/15/first-simple-robot.html">&lt;p&gt;There’s is nothing quite as satisfying as using your own hands to build something.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-10T13:14:49-07:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Tony’s Thoughts</title><subtitle>My personal blog where any given day I will attempt to convert the thoughts flowing through my mind into text.
+It has been four years since I have blogged so enjoy the old material, which I also now laugh at, and feel free to critique anything that I write.</subtitle><entry><title type="html">First Simple Robot - TypeBot</title><link href="http://localhost:4000/robot/javascript/typebot/simplebot/2016/02/15/first-simple-robot.html" rel="alternate" type="text/html" title="First Simple Robot - TypeBot" /><published>2016-02-15T17:00:00-08:00</published><updated>2016-02-15T17:00:00-08:00</updated><id>http://localhost:4000/robot/javascript/typebot/simplebot/2016/02/15/first-simple-robot</id><content type="html" xml:base="http://localhost:4000/robot/javascript/typebot/simplebot/2016/02/15/first-simple-robot.html">&lt;p&gt;There’s is nothing quite as satisfying as using your own hands to build something.
 Whether it be using Legos and building a house, which I did all the time as a young
 one, or using metal or wood to build a mech warrior. I decided to finally put the
-&lt;a href=&quot;http://www.makershed.com/products/make-javascript-robotics&quot;&gt;Make book about
-building javascript robots&lt;/a&gt; to good use and attempted to put together the TypeBot.&lt;/p&gt;
-
-&lt;p&gt;What a blast! The best part while putting it together was cutting the wood for the
+Make book, &lt;a href=&quot;http://www.makershed.com/products/make-javascript-robotics&quot;&gt;
+Make Javascript Robotics about&lt;/a&gt; building javascript robots to good use and
+ attempted to put together the TypeBot.
+&lt;!--more--&gt;
+What a blast! The best part while putting it together was cutting the wood for the
 base since the rest was basically just hot gluing things together. My hands may be
 extremely small for a man but there’s a reason I decided to not become a surgeon
 and much like sewing, putting dabs of hot glue on things is not my specialty. I end
 up just using my fingers to smear the glue on and then end up with bright red tipped
 fingers that look like fire embers after pulling off the dried glue.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Bot_Pieces.jpg&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/Bot_Pieces.jpg&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The next part was to wire up the Arduino Uno to the three servo motors. This was
 more frustrating than wanting cereal and opening up the fridge to find out you are
@@ -21,7 +23,7 @@ communication. Thanks &lt;a href=&quot;https://www.adafruit.com/product/155&quot
 for tasting the rainbow and thinking of crazy colors while wiring up your servo motors. Eventually I figured it out using my multimeter and had it all connected and up
 and connected.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Bot_Finished.jpg&quot; align=&quot;middle&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/Bot_Finished.jpg&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I plugged it in, copied down the code, clicked run, and whala! I had it running
 just fine and aligned the arms of the bot. Little did I know that the hot glue and
@@ -33,17 +35,17 @@ it a success, and I plan on now either reinforcing what’s already there or cre
 a version 2. There’s a reason everything starts in alpha, goes to beta, and never
 keeps getting updated with better version.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/Bot_Working.gif&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/Bot_Working.gif&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Until next robot, I will say this is the most fun I have had in a while!&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/GoodByeBot.gif&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/GoodByeBot.gif&quot; class=&quot;center-image&quot; /&gt;&lt;/p&gt;
 
-&lt;p&gt;Goodbye!&lt;/p&gt;</content><author><name></name></author><summary type="html">There’s is nothing quite as satisfying as using your own hands to build something. Whether it be using Legos and building a house, which I did all the time as a young one, or using metal or wood to build a mech warrior. I decided to finally put the Make book about building javascript robots to good use and attempted to put together the TypeBot.</summary></entry><entry><title type="html">Comic Drawing with Photoshop</title><link href="http://localhost:4000/photoshop/comic/drawing/painting/2016/02/13/comic-drawing-photoshop.html" rel="alternate" type="text/html" title="Comic Drawing with Photoshop" /><published>2016-02-13T09:30:00-08:00</published><updated>2016-02-13T09:30:00-08:00</updated><id>http://localhost:4000/photoshop/comic/drawing/painting/2016/02/13/comic-drawing-photoshop</id><content type="html" xml:base="http://localhost:4000/photoshop/comic/drawing/painting/2016/02/13/comic-drawing-photoshop.html">&lt;p&gt;I am not the kind of person that likes to post pictures of myself online. I really
+&lt;p&gt;Goodbye!&lt;/p&gt;</content><author><name></name></author><summary type="html">There’s is nothing quite as satisfying as using your own hands to build something. Whether it be using Legos and building a house, which I did all the time as a young one, or using metal or wood to build a mech warrior. I decided to finally put the Make book, Make Javascript Robotics about building javascript robots to good use and attempted to put together the TypeBot.</summary></entry><entry><title type="html">Comic Drawing with Photoshop</title><link href="http://localhost:4000/photoshop/comic/drawing/painting/2016/02/13/comic-drawing-photoshop.html" rel="alternate" type="text/html" title="Comic Drawing with Photoshop" /><published>2016-02-13T09:30:00-08:00</published><updated>2016-02-13T09:30:00-08:00</updated><id>http://localhost:4000/photoshop/comic/drawing/painting/2016/02/13/comic-drawing-photoshop</id><content type="html" xml:base="http://localhost:4000/photoshop/comic/drawing/painting/2016/02/13/comic-drawing-photoshop.html">&lt;p&gt;I am not the kind of person that likes to post pictures of myself online. I really
 don’t know why that is since I don’t care what people think about me and never care
-what I look like, but I don’t engage much with social media at all.&lt;/p&gt;
-
-&lt;p&gt;With that said, I have decided that I am going to start honing my photoshop skills
+what I look like, but I don’t engage much with social media at all.
+&lt;!--more--&gt;
+With that said, I have decided that I am going to start honing my photoshop skills
 again and start posting different styles of photos that I have manipulated. To start
 out at first the goal was to pixelize my face and make it look like a puzzle that
 needed to be put together. Looking up tutorials on how to do this led me to once
@@ -60,7 +62,7 @@ a red white and blue theme going on so felt the need to add the stars as well.&l
 
 &lt;p&gt;Having spent a good amount of time working on this site now, yeah I know it doesn’t
 look like it, I have started to think that using ‘px’ to size an element might as well
-be forgotten about. When I went through the classes to learn web development four
+be forgotten about. &lt;!--more--&gt;When I went through the classes to learn web development four
 years ago or so I don’t remember there being any other way. This was, however before
 everyone started using there phones and tablet to visit websites more than an actual
 browser. A few years ago I tried to get back into building a site and attempted to
@@ -71,9 +73,9 @@ readable on a phone or tabled only to an ant or a fly that is using the screen t
 figure out where the nearest food particle that I dropped has landed. Yes, there
 is still some uses of ‘px’ in this site and I understand it has a purpose, but it
 is way less common now than before. I have also even managed to figure out how to
-use ‘vh’ and ‘vw’! As of writing this there is probably an even better way.&lt;/p&gt;</content><author><name></name></author><summary type="html">Who needs pixel sizes anymore when dealing with CSS?</summary></entry><entry><title type="html">Unity and Virtual Reality</title><link href="http://localhost:4000/unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality.html" rel="alternate" type="text/html" title="Unity and Virtual Reality" /><published>2016-01-13T09:00:00-08:00</published><updated>2016-01-13T09:00:00-08:00</updated><id>http://localhost:4000/unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality</id><content type="html" xml:base="http://localhost:4000/unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality.html">&lt;p&gt;When it comes to Unity I am a complete beginner having only started working with
+use ‘vh’ and ‘vw’! As of writing this there is probably an even better way.&lt;/p&gt;</content><author><name></name></author><summary type="html">Who needs pixel sizes anymore when dealing with CSS? Having spent a good amount of time working on this site now, yeah I know it doesn’t look like it, I have started to think that using ‘px’ to size an element might as well be forgotten about.</summary></entry><entry><title type="html">Unity and Virtual Reality</title><link href="http://localhost:4000/unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality.html" rel="alternate" type="text/html" title="Unity and Virtual Reality" /><published>2016-01-13T09:00:00-08:00</published><updated>2016-01-13T09:00:00-08:00</updated><id>http://localhost:4000/unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality</id><content type="html" xml:base="http://localhost:4000/unity/virtual/reality/vr/2016/01/13/unity-and-virtual-reality.html">&lt;p&gt;When it comes to Unity I am a complete beginner having only started working with
 it for the past month and having no prior experience with game programming. I will
-start by saying it is Awesome! I don’t know how people used to make video games
+start by saying it is Awesome!&lt;!--more--&gt; I don’t know how people used to make video games
 before game engines like Unity and UnReal and hopefully that isn’t something that
 drives me insane as to where I research into building my own game engine when
 these super powerful easy to use engines already exist and are free to use. So far
@@ -89,9 +91,9 @@ opening. Once I get around to upgrading my desktop the next to do item will be
 saving up for either the Oculus or HTC Vive. Being around professional game openers
 has swayed me slightly into focusing solely on being a game developer knowing that
 the money and job security may not be the best in the field. What is more fun than
-creating something so that others can have fun?&lt;/p&gt;</content><author><name></name></author><summary type="html">When it comes to Unity I am a complete beginner having only started working with it for the past month and having no prior experience with game programming. I will start by saying it is Awesome! I don’t know how people used to make video games before game engines like Unity and UnReal and hopefully that isn’t something that drives me insane as to where I research into building my own game engine when these super powerful easy to use engines already exist and are free to use. So far I have started working through the Unity tutorials and I’ve already learned so much. I am planning on running through all of the tutorials before making my own game so that I will have a great grasp as to how everything works, well and because an idea for a game has yet to find it’s way into my mind that is super ambitious. Today I went to a Unity meet up where virtual reality was being discussed. Having read about it online but yet to actually experience it, not being made of $, being able to see what resources for developing on the different units was really eye opening. Once I get around to upgrading my desktop the next to do item will be saving up for either the Oculus or HTC Vive. Being around professional game openers has swayed me slightly into focusing solely on being a game developer knowing that the money and job security may not be the best in the field. What is more fun than creating something so that others can have fun?</summary></entry><entry><title type="html">SVG Files</title><link href="http://localhost:4000/jekyll/svg/illustrator/gray/2016/01/11/svg-files.html" rel="alternate" type="text/html" title="SVG Files" /><published>2016-01-11T07:00:00-08:00</published><updated>2016-01-11T07:00:00-08:00</updated><id>http://localhost:4000/jekyll/svg/illustrator/gray/2016/01/11/svg-files</id><content type="html" xml:base="http://localhost:4000/jekyll/svg/illustrator/gray/2016/01/11/svg-files.html">&lt;p&gt;It all started when I wanted to move the RSS Feed from the footer to the header.
+creating something so that others can have fun?&lt;/p&gt;</content><author><name></name></author><summary type="html">When it comes to Unity I am a complete beginner having only started working with it for the past month and having no prior experience with game programming. I will start by saying it is Awesome!</summary></entry><entry><title type="html">SVG Files</title><link href="http://localhost:4000/jekyll/svg/illustrator/gray/2016/01/11/svg-files.html" rel="alternate" type="text/html" title="SVG Files" /><published>2016-01-11T07:00:00-08:00</published><updated>2016-01-11T07:00:00-08:00</updated><id>http://localhost:4000/jekyll/svg/illustrator/gray/2016/01/11/svg-files</id><content type="html" xml:base="http://localhost:4000/jekyll/svg/illustrator/gray/2016/01/11/svg-files.html">&lt;p&gt;It all started when I wanted to move the RSS Feed from the footer to the header.
 I figured since that sounded like an easy task to do it would take maybe 5-10
-minutes tops. Boy was I wrong! I worked on it for a good hour trying to figure
+minutes tops. Boy was I wrong!&lt;!--more--&gt; I worked on it for a good hour trying to figure
 out not just what a .svg file was but how to make one and then how to fix them.
 I know all about .gif, .png, .jpg, .ai, but now you want to throw .svg into the
 mix… After some good all internet searching I managed to find that Illustrator
@@ -106,16 +108,17 @@ in to the logo now, or at least until I figure out how to change it, you will
 notice that there is some gray outline by each arc. After looking up how to fix
 it and coming across no solution and knowing little about svg files I called it
 a night and left the logo as is. I will come back to try to understand how you
-work one day svg!&lt;/p&gt;</content><author><name></name></author><summary type="html">It all started when I wanted to move the RSS Feed from the footer to the header. I figured since that sounded like an easy task to do it would take maybe 5-10 minutes tops. Boy was I wrong! I worked on it for a good hour trying to figure out not just what a .svg file was but how to make one and then how to fix them. I know all about .gif, .png, .jpg, .ai, but now you want to throw .svg into the mix… After some good all internet searching I managed to find that Illustrator could convert an image into a svg file. I was mentally ecstatic thinking how easy it would be so I open Illustrator, create a logo for the RSS feed, save the file, and then create the html file and upload it to the site. I was just about to smile and call it a success when I realized the logo was just a gray logo. Well, after zooming in I realized my logo was there but just a black outline over a gray circle making it invisible. After some time I realized the issue was that in Illustrator I did not have a transparent background. Easy fix, or so I thought. If you zoom in to the logo now, or at least until I figure out how to change it, you will notice that there is some gray outline by each arc. After looking up how to fix it and coming across no solution and knowing little about svg files I called it a night and left the logo as is. I will come back to try to understand how you work one day svg!</summary></entry><entry><title type="html">Jekyll Novice</title><link href="http://localhost:4000/jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice.html" rel="alternate" type="text/html" title="Jekyll Novice" /><published>2016-01-10T05:00:00-08:00</published><updated>2016-01-10T05:00:00-08:00</updated><id>http://localhost:4000/jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice</id><content type="html" xml:base="http://localhost:4000/jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice.html">&lt;p&gt;They say the third time is the charm and since this is now the third time I am
+work one day svg!&lt;/p&gt;</content><author><name></name></author><summary type="html">It all started when I wanted to move the RSS Feed from the footer to the header. I figured since that sounded like an easy task to do it would take maybe 5-10 minutes tops. Boy was I wrong!</summary></entry><entry><title type="html">Jekyll Novice</title><link href="http://localhost:4000/jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice.html" rel="alternate" type="text/html" title="Jekyll Novice" /><published>2016-01-10T05:00:00-08:00</published><updated>2016-01-10T05:00:00-08:00</updated><id>http://localhost:4000/jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice</id><content type="html" xml:base="http://localhost:4000/jekyll/sass/markdown/md/scss/2016/01/10/jekyll-novice.html">&lt;p&gt;They say the third time is the charm and since this is now the third time I am
 resurrecting my personal blog I am hoping this is also the last time I do so
-from scratch (No, I don’t mean I used MIT’s Scratch language). What a learning
-experience it was to start with Jekyll having only dabbed into web development
-since the majority of my time is spent in the software world. It is quite
-frustrating to write a css file or html file to have it just up and disappear
-once you run the server. If only I had read &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;the manual&lt;/a&gt; before
-trying to just jump straight into the coding (Sigh). Anyway, after doing so and
-figuring out how the markdown language and sass works it was eye opening! The
-overall look of the site will definitely be improved over time but since I am
- going to go ahead and do all the coding myself without the help of templates
- that will take some time. Going to go back to Python and Unity for now so stay
- tuned.&lt;/p&gt;</content><author><name></name></author><summary type="html">They say the third time is the charm and since this is now the third time I am resurrecting my personal blog I am hoping this is also the last time I do so from scratch (No, I don’t mean I used MIT’s Scratch language). What a learning experience it was to start with Jekyll having only dabbed into web development since the majority of my time is spent in the software world. It is quite frustrating to write a css file or html file to have it just up and disappear once you run the server. If only I had read the manual before trying to just jump straight into the coding (Sigh). Anyway, after doing so and figuring out how the markdown language and sass works it was eye opening! The overall look of the site will definitely be improved over time but since I am going to go ahead and do all the coding myself without the help of templates that will take some time. Going to go back to Python and Unity for now so stay tuned.</summary></entry></feed>
+from scratch (No, I don’t mean I used MIT’s Scratch language).
+&lt;!--more--&gt;
+What a learning experience it was to start with Jekyll having only dabbed
+ into web development since the majority of my time is spent in the software
+ world. It is quite frustrating to write a css file or html file to have it
+ just up and disappear once you run the server. If only I had read &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;the manual&lt;/a&gt;
+ before trying to just jump straight into the coding (Sigh). Anyway, after
+ doing so and figuring out how the markdown language and sass works it was
+ eye opening! The overall look of the site will definitely be improved over
+ time but since I am going to go ahead and do all the coding myself without
+ the help of templates that will take some time. Going to go back to Python
+ and Unity for now so stay tuned.&lt;/p&gt;</content><author><name></name></author><summary type="html">They say the third time is the charm and since this is now the third time I am resurrecting my personal blog I am hoping this is also the last time I do so from scratch (No, I don’t mean I used MIT’s Scratch language).</summary></entry></feed>
