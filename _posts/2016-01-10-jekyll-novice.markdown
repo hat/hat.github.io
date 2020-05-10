@@ -19,4 +19,4 @@ What a learning experience it was to start with Jekyll having only dabbed
  the help of templates that will take some time. Going to go back to Python
  and Unity for now so stay tuned.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-docs]: https://jekyllrb.com/docs/home

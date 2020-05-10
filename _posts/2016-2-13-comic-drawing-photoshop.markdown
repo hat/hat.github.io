@@ -13,7 +13,7 @@ again and start posting different styles of photos that I have manipulated. To s
 out at first the goal was to pixelize my face and make it look like a puzzle that
 needed to be put together. Looking up tutorials on how to do this led me to once
 again come across a tutorial on how to make a photo look like a drawing and this
-one on <a href="http://www.digitalcameraworld.com/2014/01/22/photo-to-cartoon-effect-how-to-use-photoshop-to-turn-images-into-drawings-or-paintings/">Digital Camera World by Jeff Meyer </a>
+one on <a href="https://www.digitalcameraworld.com/2014/01/22/photo-to-cartoon-effect-how-to-use-photoshop-to-turn-images-into-drawings-or-paintings/">Digital Camera World by Jeff Meyer </a>
 intrigued me with it's multiple steps. It took me a few tries but I was pleasantly
 surprised at how well I managed to have it turn out.
 
