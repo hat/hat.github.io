@@ -9,13 +9,13 @@ categories: Certificates DevOps
 
 I have heard countless times from industry professionals that certificates are worthless. On the other hand, I have also experienced teams where obtaining a certificate is a part of scrum board and quarterly goals. I find that certificates are indeed worth it but that they in no way will guarantee you a job nor are they a good indication of someone's expertise with the subject matter. <!--more--> 
 
-I obtained my first certificate March of 2019, the AWS Solutions Architect Associate. Soon after I found myself at a client that used AWS and was able to understand the architecture and services they used. Studying just to obtain the cert you may pass but will forget everything quickly, studying to understand the technology and obtain the certificate is more rewarding. 
+I obtained my first certificate March of 2019, the AWS Solutions Architect Associate. Soon after, I found myself at a client that used AWS and due to how I studied, I was able to understand the architecture and services that were being used. Studying to understand the technology as well as to obtain the certificate is far more rewarding than just studying for the certificate itself.
 
-As far as getting a job goes, having a certificate on your resume may help get your foot in the door to the first step of the interview, but without hands on experience as well, good luck on getting past the initial interview and potentially landing the job. If you don't have any experience stick to the associate level certs. Experience far outweighs having a certificate regardless of the topic.
+As far as getting a job goes, having a certificate on your resume will help get to the first step of the interview, but without hands on experience as well, good luck on getting past the initial interview and potentially landing the job. If you don't have any experience stick there is little reason to go further than the associate level certificates. Experience far outweighs having a certificate regardless of the topic.
 
 #### How I Study for Certificates
 
-I will break this section into two parts; how to study in order to understand the topic of the certificate, and how to study for the exam itself.
+I will break this section into two parts; how to study in order to understand the topic of the certificate, and how to study for the exam itself. It is definitely possible to pass by only taking practice exams but less rewarding long term.
 
 The best way I have found to study in order to understand the topic as to how it will pertain to a job is to use the many resources and courses that are out there. The sites I use the majority of the time are [Linux Academy](https://linuxacademy.com/), [A Cloud Guru](https://acloud.guru/) and [KodeKloud](https://kodekloud.com/).
 
